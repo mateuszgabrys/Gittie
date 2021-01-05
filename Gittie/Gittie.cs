@@ -8,5 +8,9 @@ public class Gittie
         {
 			Console.WriteLine("Hello, I'm Gittie.\n");
         }
+		public int Add(int a, int b)
+		{
+			return a + b;
+		}
 	}
 }
