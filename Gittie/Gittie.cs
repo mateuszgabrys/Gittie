@@ -1,8 +1,12 @@
 ﻿using System;
 
-public class Class1
+public class Gittie
 {
-	public Class1()
+	public Gittie()
 	{
+		public void Introduce()
+        {
+			Console.WriteLine("Hello, I'm Gittie.\n");
+        }
 	}
 }
