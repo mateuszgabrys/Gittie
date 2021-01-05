@@ -6,7 +6,8 @@ public class Gittie
 	{
 		public void Introduce()
         {
-			Console.WriteLine("Hello, I'm Gittie!");
+			Console.WriteLine("Hello, I'm Gittie.\n");
+			Console.WriteLine("Hello, I'm Mateusz.\n");
         }
 
 		public void Joke()
