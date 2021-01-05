@@ -20,5 +20,9 @@ public class Gittie
 		{
 			return a + b;
 		}
+		public void Shout()
+        {
+			Console.WriteLine("I'm shouting!\n");
+        }
 	}
 }
